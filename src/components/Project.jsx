@@ -11,7 +11,7 @@ const Project = () => {
             <div className="row" style={{ display: 'flex', flexWrap: 'wrap' }}>
                 <div className="column" style={{ flex: '2', padding: '10px', backgroundColor: 'lightblue;', boxSizing: 'border-box' }}   >
                     <Card style={{ width: '20rem', margin: '10px' }}>
-                        <Card.Img src="/images/arjanmotor.jpeg" />
+                        <Card.Img src="/images/Skincare.jpeg" />
                         <Card.Body>
                             <Card.Title>Easily manage your entire skincare product line, track inventory, handle orders, and engage with customers—all in one streamlined platform designed for skincare businesses.</Card.Title>
                             <Card.Text>
@@ -21,9 +21,9 @@ const Project = () => {
                         </Card.Body>
                     </Card>
                 </div>
-                <div className="column" style={{ flex: '2', padding: '10px', backgroundColor: 'lightblue;', boxSizing: 'border-box'}} >
+                <div className="column" style={{ flex: '5', padding: '10px', backgroundColor: 'lightblue;', boxSizing: 'border-box'}} >
                     <Card style={{ width: '20rem', margin: '10px', }}>
-                        <Card.Img variant="top" src="/images/srk.jpeg" style={{height: '220px'}} />
+                        <Card.Img variant="top" src="/images/Dreamcar.jpeg" style={{height: '220px'}} />
                         <Card.Body>
                             <Card.Title>Dream car : Car Dealership</Card.Title>
                             <Card.Text>
